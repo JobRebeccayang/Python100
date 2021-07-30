@@ -1,6 +1,4 @@
-# Python100
-I would like to be an excellent Software Engineering
-I gave myself 100 days to challenge myself to master Python(2021-June-10 to 2021-Sep-18)
+# Python
 
 All the learning materials are from:
 github: jackfrued/Python-100-Days
